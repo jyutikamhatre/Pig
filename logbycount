@@ -1,0 +1,45 @@
+UpgradeUtils/DumpUpgradeTable	442
+UpgradeUtils/RemoveExistingFiles	399
+UpgradeUtils/UpdateUpgradeTable	240
+MSI ERROR	136
+UpgradeUtils/GetPropertiesForSecureCustom	122
+GetProperty Success	121
+UpgradeUtils/StreamlineCmdLine	106
+SetProperty Success	90
+WritePrivateProfileString Success	53
+UpgradeUtils/IsInstallFromAdminImage	36
+UpgradeUtils/IsUninstall	21
+SUCCESS	15
+SetTargetPath Success	10
+UpgradeUtils/FileExists	9
+UpgradeUtils/StartAutoLog	7
+GetTargetPath Success	6
+UpgradeUtils/WriteIniFile	6
+UpgradeUtils/SetInstallType	6
+Function IsNotesPluginInstall	6
+UpgradeUtils/FinalActions	5
+UpgradeUtils/ES_SetProperties	5
+UpgradeUtils/CountNotes6Products	4
+UpgradeUtils/CheckKitRequiredFiles	4
+UpgradeUtils/RemoveObsoleteFiles	3
+UpgradeUtils/RegisterMAPI	3
+Function INTL_IsMuiIns	3
+UpgradeUtils/CreateSignatureFiles	3
+UpgradeUtils/SetProgramFolderToProgramFolderVar	3
+UpgradeUtils/uiInitialize	3
+UpgradeUtils/SetREDIR_DATADIR	2
+UpgradeUtils/SetPropertiesForSecureProperty	2
+UpgradeUtils/INTL_ClearOutIniForUpgrade	2
+UpgradeUtils/CleanLockPermissionsTable	2
+UpgradeUtils/Check_VDIR_INI_OVERRIDE	2
+UpgradeUtils/UpdateRegForMultiUser	2
+UpgradeUtils/SetREDIR_VDIR_SHARED	2
+UpgradeUtils/SetPathsFromRegistry	2
+UpgradeUtils/IsMSIMajorUpgrade	2
+UpgradeUtils/UI_SetProperties	2
+INTL_GetReleaseBuild	1
+Function IsUpgradeBuild	1
+UpgradeUtils/DisableMUIPack	1
+UpgradeUtils/INTL_UpdateMUIDAT	1
+UpgradeUtils/INTL_AdjustComponentsState	1
+PAUL->	1
